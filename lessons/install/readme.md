@@ -54,8 +54,8 @@ I've had Python 3 for a little while now, so...I have Python 3 because I had it 
 In the Terminal:
 
 `python3 --version`
+
 Python 3.7.1
->> REPLACE THIS TEXT WITH YOUR RESPONSE
 
  
 
